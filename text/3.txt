@@ -1,0 +1,113 @@
+Thu14 [105/1
+
+rootG MINERYA4)-[~/Downloads]
+ruby calculator13.rb
+[CURRENT PERIOD] Enter current year (e.g. 2025): 2025
+[CURRENT PERIOD] Enter current week number (1-52): 33
+[WORK SCHEDULE] Enter number of working days this week: 5
+[ENGAGEMENT DATA COLLECTION] Enter consultant engagements using the following format:
+Consultant, CostRate, TargetUtilization, WeekNumber,Client, Engagement, ContractValue, ProjectPhase, BillableHours
+Example: Tony Cheung, 1200, 77.8, 25, MegaCorp One, Web Application Penetration Test June 2025,40000, testing, 16
+Type 'COMPLETE' mhen finished:
+[ENTRY 1] Tom Li, 1500,38.9,33, Telequote Data International Limited, TQ External Network Infrastructure Vulnerability Scan August 2025,10000, Reporting, 2
+Darien Leung, 1500,77.8,32, Telequote Data International Limited, TQ External Network Infrastructure Vulnerability Scan August 2025,10000,port scanning,0.5
+Tom Li, 1500, 38.9,32, Telequote Data International Limited, TQ External Network Infrastructure Vulnerability Scan August 2025,10000,port scanning,0.5
+Ryan Wan, 1500, 38.9,33,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000,SIEM installation guide, 4
+Ryan Wan, 1500, 38.9,32,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, cis tuning, 8
+Ryan Wan, 1500, 38.9,31, 76C Cai Piao, Digital Forensics and Incident Response May 2025,312000,cis tuning, 12
+Ryan Wan, 1500, 38.9,30, [ENTRY 2] 76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, siem installation, 16
+Ryan Wan, 1500, 38.9,29,76C Cai Piao,Digital Forensics and Incident Response May 2025,312000,cis tuning, 8
+Ryan Wan, 1500, 38.9,29,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, cis tuning, 8
+Ryan Wan, 1500, 38.9,28, 76C Cai Piao, Digital Forensics and Incident Response May 2025, 312000, nessus scan, 8
+Ryan Wan, 1500, 38.9,27,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, SIEM install and review, 12
+Ryan[ENTRY 3] Wan, 1500, 38.9,26, 76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, SIEM install and review, 16
+Darien Leung, 1500, 77.8,25, 76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, IR, 24
+Leon Nip, 1500, 38.9,25, 76C Cai Piao, Digi[ENTRY 4] tal Forensics and Incident Response May 2025,312000,web pentest, 16
+Ryan Wan, 1500, 38.9,25, 76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, Review, 16
+Ednond Chiv,2500,0,24,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, ,24
+Ryan[ENTRY 5] Wan, 1500, 38.9,24,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, Review, 8
+Tony Cheung, 2500,0,24,76C Cai Piao, Digital Forensics and Incident Response May 2025,312000, ,8
+Ryan Wan, 1500, 38.9,22, 7[ENTRY 6] 6C Cai Piao, Digital Forensics and Incident Response May 2025,312000, testing, 12
+Leon Nip,1500,38.9,33, UD Blockchain, HackTheBox Resolute, 0, Lab exercise, 2
+Darien Leung, 1500,77.8,33, UD Blockchain, HackTheBox Resolute, 0, Lab exercise,2
+Darien Leung, 1500,77.8, [ENTRY 7] 33,DFI Retail Group Holdings Limited, Mannings Chinese Wellness Hub Web Application Penetration Test August 2025,55000, Test + Report, 12
+Darien Leung, 1500,77.8,32,DFI Retail Group Holdings Limited, Mannings Chinese Wellness Hub Web Application Penetration Tes[ENTRY 8] t August 2025,55000,Pentest, 12
+Darien Leung, 1500, 77.8, 33, OsteoAI Limited, OsteoAI Desktop Application Security Risk Assessment and Audit August 2025,15000, Retest + Report, 4
+Darien Leung, 1500, 77.8,32, OsteoAI Limited, OsteoAI Desktop Application Security Ris[ENTRY 9] k Assessment and Audit August 2025,15000, Scan and Report, 8
+Darien Leung, 1500, 77.8,31, OsteoAI Limited, OsteoAI Desktop Application Security Risk Assessment and Audit August 2025,15000, Test + Report, 8
+Darien Leung, 1500,77.8,33, UD Blockchain, Incident Respons[ENTRY 10] e PLaybook,0, IR Persistence PS1 Hunting for Live Examination,5
+Darien Leung, 1500, 77.8, 33, AsiaWorld-Expo Management Limited, AsiaWorld-Club Phase 2 WeChat Mini Progra Penetration Test July 2025,24000, Retest + Report,4
+Darien Leung, 1500,77.8, 30, AsiaWorld-E[ENTRY 11] xpo Management Limited, AsiaWorld-Club Phase 2 WeChat Mini Program Penetration Test July 2025,24000, Report, 1
+Darien Leung, 1500,77.8,29, AsiaWorld-Expo Management Limited, AsiaWorld-Club Phase 2 WeChat Mini Program Penetration Test July 2025,24000, Pentest + Re[ENTRY 12] test, 24
+Darien Leung, 1500, 77.8,29, AsiaWorld-Expo Management Limited, AsiaWorld-Club Phase 2 WeChat Mini Program Penetration Test July 2025,24000,Report, 6[ENTRY 13] [ENTRY 14] [ENTRY 15] [ENTRY 16] [ENTRY 17] [ENTRY 18] [ENTRY 19] [ENTRY 20] [ENTRY 21] [ENTR
+22] [ENTRY 23] [ENTRY 24] [ENTRY 25] [ENTRY 26] [ENTRY 27] [ENTRY 28] [ENTRY 29] [ENTRY 30] [ENTRY 31]
+ENTRY 32] COMPLETE
+
+CONSULTANT UTILIZATION SUMMARY - Week 33, 2025
+
+Consultant
+
+Target %
+Available Hours
+
+Target Hours
+
+Billable Hours
+Non-Billable Hours
+Utilization %
+
+I Tom Li
+
+38.9%
+
+45.0 hours
+
+17.5 hours
+
+2.0 hours
+
+B hours
+
+4.4%
+
+Darien Leung
+
+77.8%
+
+| 45.0 hours
+
+35.0 hours
+
+20.0 hours
+
+7.0 hours
+
+60.03
+
+Ryan Wan
+
+38.9%
+
+45.0 hours
+
+17.5 hours
+
+4.0 hours
+
+0 hours
+
+8.9%
+
+Leon Nip
+
+38.9%
+
+45.0 hours
+
+17.5 hours
+
+B hours
+
+2.0 hours
+
+4.4%
